@@ -52,3 +52,17 @@ Este projeto me ajudou a praticar:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/barbaranunesprogrammer/HAMBURGUERIAZ
+```
+Abra no Android Studio
+Execute em um emulador ou celular
+
+Envio via WhatsApp
+👩‍💻 Autora
+
+Feito por Bárbara Nunes 💜
+
+GitHub: https://github.com/barbaranunesprogrammer
+LinkedIn: https://www.linkedin.com/in/barbaranunesprogram
+📌 Observação
+
+Este projeto foi desenvolvido para fins educacionais.
