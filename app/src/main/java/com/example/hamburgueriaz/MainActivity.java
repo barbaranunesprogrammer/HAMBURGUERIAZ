@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
         precoTxt.setText("Pedido de " +nomeCliente+ "  -Total: R$ " + preco);
 
         Intent intent = new Intent(Intent.ACTION_SENDTO);
-        intent.setData(Uri.parse("mailto:"));
+        intent.setData(Uri.parse("mailto:barbaranunesprogrammer@outlook.com"));
         intent.putExtra(Intent.EXTRA_SUBJECT, "Pedido de " + nomeCliente);
         intent.putExtra(Intent.EXTRA_TEXT, resumo);
 
